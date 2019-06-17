@@ -49,8 +49,10 @@ public class GitHubNetbeans {
         base no indíce do array*/
         Random r = new Random();
         int idx = r.nextInt(nomes.length);
-        System.out.println("Ganhador(a):");
+        
+        System.out.println("Parabéns!!!!! Ganhador(a):");
         System.out.println(nomes[idx]);
+        
         
     }
     
