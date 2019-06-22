@@ -50,8 +50,10 @@ public class GitHubNetbeans {
         Random r = new Random();
         int idx = r.nextInt(nomes.length);
         
+        System.out.println("Testando Netbeans e Github");
         System.out.println("Parabéns!!!!! Ganhador(a):");
         System.out.println(nomes[idx]);
+        
         
         
     }
